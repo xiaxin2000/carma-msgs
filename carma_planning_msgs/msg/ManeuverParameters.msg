@@ -14,6 +14,7 @@ uint8 negotiation_type
 uint8 NO_NEGOTIATION = 0
 uint8 GENERAL_NEGOTIATION = 1
 uint8 PLATOONING = 2
+uint8 PULLOVER = 3
 # Remaining enum values reserved for future use
 
 # The strategic plugin which planned this maneuver

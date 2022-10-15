@@ -22,3 +22,6 @@ string  description
 # The fully specified name of the node which generated this message
 # NOTE: This field should not be set by ROS1 nodes
 string source_node
+
+# critical drivers' operational status
+string driver_status
